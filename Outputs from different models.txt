@@ -1,0 +1,17 @@
+Model Outputs
+
+1. Decision Tree:
+    np.float64(0.0)
+    Mean:  4.258884829844491
+    Standard Deviation:  0.8307526744588101
+
+2. Linear Regression:
+    np.float64(4.829500455507414)
+    Mean:  5.0307362044466855
+    Standard Deviation:  1.0577684312261433
+
+3. Random Forest Regressor:
+    np.float64(1.2385972473282458)
+    Mean:  3.3835220307167218
+    Standard Deviation:  0.7520794136817321
+
